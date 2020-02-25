@@ -1,3 +1,3 @@
 # PCB-E-Projects
 
-![](images/filenamegithub-logo.png)
+![](images/filename%20github-logo.png)
