@@ -1,4 +1,4 @@
 # **PCB-E-Projects**
-### MOhammad Alghrawe
+### Mohammad Alghrawe
 ![GitHub Logo](/images/github-logo.png)
 
